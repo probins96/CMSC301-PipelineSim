@@ -1,0 +1,12 @@
+Name: Palmer Robins
+
+Testing - 
+
+Cases Tested:
+- RAW Dependences only
+- Stall cycle after JTYPE instruction
+- Handling input formatted in binary
+- Read register directly in the instruction directly after it's written
+- Read register in 2nd instruction after it is written
+- Read register following a memory instruction that writes the register
+- Read register in 2nd instruction after a memory instruction writes the register

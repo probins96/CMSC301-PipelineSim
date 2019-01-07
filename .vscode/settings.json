@@ -1,0 +1,14 @@
+{
+"C_Cpp.clang_format_fallbackStyle": "WebKit",
+"files.associations": {
+    "vector": "cpp",
+    "iosfwd": "cpp",
+    "sstream": "cpp",
+    "list": "cpp",
+    "iostream": "cpp",
+    "memory": "cpp",
+    "string": "cpp",
+    "cstdlib": "cpp",
+    "new": "cpp"
+}
+}
